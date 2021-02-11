@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Pymaceuticals Analysis
 
 Three observations I have made on the data are that the Drug Regimen of Ramicane was the most effective reducing the tumor size to an average of 40.21mm^3 .There was a single outlier found for Tumor Volume on the Infubinol Drug Regimen just below the lower bound. The correlation coefficient of mouse weight vs average tumor volume is strongly positive with a value of 0.8419.
 
